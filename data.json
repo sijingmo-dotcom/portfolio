@@ -1,0 +1,827 @@
+{
+  "profile": {
+    "name": "莫思静",
+    "role": "AI漫剧制作，AI广告制作",
+    "headline": "让想象，\n成为看得见的世界。",
+    "bio": "善于将想法变成能看见的画面，能够独立从0到1制作AI短剧、AI动漫，可独立完成角色声线克隆，熟练使用各类主流传统设计软件和AI工具",
+    "email": "2261671767@qq.com",
+    "phone": "13226238738",
+    "wechat": "13226238738",
+    "avatar": "/assets/c683b794-ca53-453a-a97f-8390fa2b2ba2.png",
+    "skills": [
+      {
+        "name": "Adobe Premiere Pro",
+        "value": 90
+      },
+      {
+        "name": "Adobe Photoshop",
+        "value": 85
+      },
+      {
+        "name": "Adobe Illustrator",
+        "value": 90
+      },
+      {
+        "name": "WorkBuddy",
+        "value": 90
+      },
+      {
+        "name": "codex",
+        "value": 90
+      },
+      {
+        "name": "ChatGPT",
+        "value": 80
+      },
+      {
+        "name": "liblibAI",
+        "value": 80
+      }
+    ]
+  },
+  "strengths": [
+    {
+      "title": "从概念，到成片",
+      "en": "END-TO-END THINKING",
+      "text": "让创意在每个环节保持一致，从前期概念、视觉探索到最终呈现，建立完整的叙事。"
+    },
+    {
+      "title": "让视觉，有记忆点",
+      "en": "DISTINCTIVE EXPRESSION",
+      "text": "在材质、色彩与节奏中寻找独特语言，为每一次表达创造可被记住的瞬间。"
+    },
+    {
+      "title": "跨媒介，自由表达",
+      "en": "MULTIDISCIPLINARY DESIGN",
+      "text": "连接动态影像、平面设计与三维视觉，让同一个创意在不同媒介中自然生长。"
+    }
+  ],
+  "works": [
+    {
+      "id": "01430a81-ef31-491e-89d8-6ebe572caebe",
+      "category": "IP形象设计",
+      "title": "十二生肖系列",
+      "subtitle": "Twelve Chinese Zodiac Signs",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/2acb2992-559b-4f96-8a2f-13d13ca83d5b.png",
+      "media": [
+        {
+          "url": "/assets/64a367a7-a782-45f7-b2ce-1b109490b15d.png",
+          "type": "image",
+          "name": "2羊_.png"
+        },
+        {
+          "url": "/assets/9f3a049c-740d-4f60-89b1-b560662d0b3c.png",
+          "type": "image",
+          "name": "2羊_三视图.png"
+        },
+        {
+          "url": "/assets/878a993d-362e-4a6f-bff4-559a6ee59c0b.png",
+          "type": "image",
+          "name": "2羊_表情包.png"
+        },
+        {
+          "url": "/assets/9bf8a9d5-005c-43bc-b87e-837d0fbf521b.png",
+          "type": "image",
+          "name": "3鼠_.png"
+        },
+        {
+          "url": "/assets/de8d0ee5-ee2b-40eb-ac8a-6f66814d9754.png",
+          "type": "image",
+          "name": "3鼠_三视图.png"
+        },
+        {
+          "url": "/assets/dbe1854d-16cf-4ac8-ac73-75d5670f74a9.png",
+          "type": "image",
+          "name": "3鼠_表情包.png"
+        },
+        {
+          "url": "/assets/77ecd8ad-1f97-45a1-9b3a-830e5330db83.png",
+          "type": "image",
+          "name": "4牛_.png"
+        },
+        {
+          "url": "/assets/9ffbe454-51e5-484e-ab88-191b7ad93fb2.png",
+          "type": "image",
+          "name": "4牛_三视图.png"
+        },
+        {
+          "url": "/assets/e34e114a-e7f9-4cfa-b648-7d8493ce6770.png",
+          "type": "image",
+          "name": "4牛_表情包.png"
+        },
+        {
+          "url": "/assets/69159439-21d8-47c2-80f4-e53e7c8059d1.png",
+          "type": "image",
+          "name": "5鸡_.png"
+        },
+        {
+          "url": "/assets/f7667b00-dd4e-45c5-85d2-86f268f4ec8b.png",
+          "type": "image",
+          "name": "5鸡_三视图.png"
+        },
+        {
+          "url": "/assets/b3f3e096-3348-475f-a1e8-f00889afdf87.png",
+          "type": "image",
+          "name": "5鸡_表情包.png"
+        },
+        {
+          "url": "/assets/74f89deb-aa29-44fb-9145-45cc9dc9a16e.png",
+          "type": "image",
+          "name": "6狗_.png"
+        },
+        {
+          "url": "/assets/a698b15a-e2f2-4993-95c8-3a007e91de4e.png",
+          "type": "image",
+          "name": "6狗_三视图.png"
+        },
+        {
+          "url": "/assets/e817ac03-2173-427b-b60c-b0fec9c2fd4f.png",
+          "type": "image",
+          "name": "6狗_表情包.png"
+        },
+        {
+          "url": "/assets/26733a4e-09a0-43b2-9855-1361c036db2e.png",
+          "type": "image",
+          "name": "7猪_.png"
+        },
+        {
+          "url": "/assets/1f94d77a-2d43-40a2-bb27-71cf5684bdce.png",
+          "type": "image",
+          "name": "7猪_三视图.png"
+        },
+        {
+          "url": "/assets/b562cb6b-26ab-481d-9b46-c83659330dfa.png",
+          "type": "image",
+          "name": "7猪_表情包.png"
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "676a7ab7-4392-4166-bed2-0411a7d0c21c",
+      "category": "视觉海报",
+      "title": "国庆节",
+      "subtitle": "The National Day of the People’s Republic of China",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/fbf7a21d-3ad0-4fb4-92f5-257179b3cc99.png",
+      "media": [
+        {
+          "url": "/assets/d738bb0d-3db6-47c6-92a8-b704d43200d3.png",
+          "type": "image",
+          "name": "ChatGPT_图像_2026年9月28日_00_03_22.png"
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "8d8c552f-0f32-4bf8-bf57-fd00a4c2a5ba",
+      "category": "视觉海报",
+      "title": "中秋节",
+      "subtitle": "Mid-Autumn Festival",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/9f39d25e-d3db-4556-8172-d589d99b8a1f.png",
+      "media": [
+        {
+          "url": "/assets/cfc7431f-72f1-4a82-a055-658b8cf20ef5.png",
+          "type": "image",
+          "name": "ChatGPT_图像_2026年9月27日_23_45_55.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "492f25a5-c1a3-4c80-b476-5d40aa1d0364",
+      "category": "视觉海报",
+      "title": "秋分",
+      "subtitle": "Seasonal Equinox - Autumnal Equinox",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/62b4abd8-78a0-4be6-8ff0-2a13728c5456.png",
+      "media": [
+        {
+          "url": "/assets/eab00846-e457-4ff5-b71e-bbbf1b698c50.png",
+          "type": "image",
+          "name": "ChatGPT_图像_2026年9月28日_00_28_34.png"
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "1fd2a1dc-6b67-4336-90b7-559682d7c644",
+      "category": "电商详情页",
+      "title": "悦鲜活A2β鲜牛奶",
+      "subtitle": "",
+      "year": "2026",
+      "description": "提出想法，AI协助完成",
+      "cover": "/assets/453d4dbb-df9c-4702-abed-dbe3bea26d9c.png",
+      "media": [
+        {
+          "url": "/assets/6cec590a-0830-4606-ba5f-47ca3c1bfde8.png",
+          "type": "image",
+          "name": "1.png"
+        },
+        {
+          "url": "/assets/69205f43-6dd5-4563-9836-59ae23c9951b.png",
+          "type": "image",
+          "name": "2.png"
+        },
+        {
+          "url": "/assets/800c004d-9faa-47d3-97ce-2f80bb03a509.png",
+          "type": "image",
+          "name": "3.png"
+        },
+        {
+          "url": "/assets/1bd8e543-63c4-453c-b806-6366cc623e09.png",
+          "type": "image",
+          "name": "4.png"
+        },
+        {
+          "url": "/assets/f136176a-8b61-4443-8979-b299430329d6.png",
+          "type": "image",
+          "name": "5.png"
+        },
+        {
+          "url": "/assets/1250c261-8ec5-4df0-89f9-b3ccb8dc2953.png",
+          "type": "image",
+          "name": "6.png"
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "60989963-95bc-4e1b-bd27-d001f7023adc",
+      "category": "电商详情页",
+      "title": "良食记黄桃罐头",
+      "subtitle": "",
+      "year": "2026",
+      "description": "提出想法，AI协助完成",
+      "cover": "/assets/16f4e362-508c-4ac6-92f5-db69b5f6ae08.png",
+      "media": [
+        {
+          "url": "/assets/f3c227a9-bed0-4131-8556-2e288bb65c07.png",
+          "type": "image",
+          "name": "1.png"
+        },
+        {
+          "url": "/assets/93511d85-f28b-43ae-83ab-db16e6d6e232.png",
+          "type": "image",
+          "name": "2.png"
+        },
+        {
+          "url": "/assets/2f92fce0-120e-4e2c-a1a2-53c6604c6b14.png",
+          "type": "image",
+          "name": "3.png"
+        },
+        {
+          "url": "/assets/7c801d4f-a8b9-4ad5-ae87-121b52d5f4bb.png",
+          "type": "image",
+          "name": "4.png"
+        },
+        {
+          "url": "/assets/b664fe86-9de8-4edc-b2e0-eb2c6a9edfb9.png",
+          "type": "image",
+          "name": "5.png"
+        },
+        {
+          "url": "/assets/3e960c8d-8d19-4bfe-9830-7b145897e8c1.png",
+          "type": "image",
+          "name": "6.png"
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "bloom",
+      "category": "短剧制作",
+      "title": "《萤》",
+      "subtitle": "",
+      "year": "2026",
+      "description": "影片以萤火虫「小萤」为主角，在夜色草叶、露珠与萤光间讲述它一夜的成长，终在黎明破晓时迎向日出，皮克斯式的温暖治愈风格。",
+      "cover": "/assets/c3e2d4f9-bb82-4155-b12a-201e1ef45a42.png",
+      "media": [
+        {
+          "url": "/assets/d8987e21-ed23-485b-a532-0ac149d9289b.mp4",
+          "type": "video",
+          "name": "《萤》.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "d5302d43-b47d-4986-8554-f1734fae4135",
+      "category": "产品TVC",
+      "title": "库迪咖啡",
+      "subtitle": "",
+      "year": "2026",
+      "description": "AI协助完成分镜脚本、视频生成，独自完成后期剪辑",
+      "cover": "/assets/8c538e07-b273-4cf6-9db2-0c8fb27d9fdc.png",
+      "media": [
+        {
+          "url": "/assets/b0a47d48-c21e-45fb-8827-a8063ef6cce6.mp4",
+          "type": "video",
+          "name": "库迪咖啡红色杯_15秒TVC_V002.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "d9fea8eb-f3ba-46f3-9d38-a6c790ffb413",
+      "category": "产品TVC",
+      "title": "景田纯净水",
+      "subtitle": "",
+      "year": "2026",
+      "description": "AI协助完成分镜脚本、视频生成，独自完成后期剪辑",
+      "cover": "/assets/22a0fd1f-4404-445e-882b-e3faf50d47a1.png",
+      "media": [
+        {
+          "url": "/assets/7681d9af-ef4c-4864-8794-9b8ab061aa08.mp4",
+          "type": "video",
+          "name": "景田饮用纯净水_15秒TVC_V003.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "ab8ddf9e-9311-4663-b47f-a502fde48741",
+      "category": "产品TVC",
+      "title": "亚洲沙示汽水",
+      "subtitle": "",
+      "year": "2026",
+      "description": "AI协助完成分镜脚本、视频生成，独自完成后期剪辑",
+      "cover": "/assets/22975241-06aa-4021-827f-8feb89199c15.png",
+      "media": [
+        {
+          "url": "/assets/ca0efbbe-8dfe-44b7-b00b-126bf9b9ecd9.mp4",
+          "type": "video",
+          "name": "亚洲沙示汽水_V002.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "edd919b2-256d-4311-9692-ff6cf497cfaa",
+      "category": "产品TVC",
+      "title": "蓝氏猫粮",
+      "subtitle": "",
+      "year": "2026",
+      "description": "AI协助完成分镜脚本、视频生成、旁白配音，独自完成后期剪辑",
+      "cover": "/assets/1cb3b865-3050-4be2-a80e-0f6869130fd7.png",
+      "media": [
+        {
+          "url": "/assets/da63a5ea-c766-49b8-b977-d0c5444097ce.mp4",
+          "type": "video",
+          "name": "蓝氏猎鸟乳鸽猫粮_15秒TVC_旁白_V003.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "luminous",
+      "category": "产品TVC",
+      "title": "CFMOTO春风 450SR 摩托车",
+      "subtitle": "",
+      "year": "2026",
+      "description": "AI协助完成分镜脚本、视频生成，独自完成后期剪辑",
+      "cover": "/assets/d41f9bc7-294f-4e38-8663-cabc349b356c.png",
+      "media": [
+        {
+          "url": "/assets/5543030a-fdc8-4469-b4a6-fdab044313ca.mp4",
+          "type": "video",
+          "name": "CFMOTO春风 450SR-宣传广告-V003_调色.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "8ec6f088-14a5-4367-b239-5f3776c53eed",
+      "category": "产品TVC",
+      "title": "潘婷护发素",
+      "subtitle": "",
+      "year": "2026",
+      "description": "AI协助完成分镜脚本、视频生成，独自完成后期剪辑",
+      "cover": "/assets/d1038e30-0f70-4087-8778-0b2bec4fc447.png",
+      "media": [
+        {
+          "url": "/assets/f89b03fd-4001-44e0-8249-19aa969946ae.mp4",
+          "type": "video",
+          "name": "潘婷3分钟奇迹发膜_15sTVC.mp4"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "c6167b2c-44bc-470f-a3ad-2e8989f12dfc",
+      "category": "电商详情页",
+      "title": "茉莉多肉荔枝茶",
+      "subtitle": "",
+      "year": "2026",
+      "description": "提出想法，AI协助完成",
+      "cover": "/assets/6bf0be5c-b16d-4e13-a0b0-b5599c30e4ef.png",
+      "media": [
+        {
+          "url": "/assets/5f51dcf8-3289-49b1-b7dc-e319b520cfe3.png",
+          "type": "image",
+          "name": "1.png"
+        },
+        {
+          "url": "/assets/f5a6d0a0-839d-4bba-8df8-a7e13d9adfeb.png",
+          "type": "image",
+          "name": "2.png"
+        },
+        {
+          "url": "/assets/d7ffb8f2-524d-4762-a6d7-9cca3cd75a1c.png",
+          "type": "image",
+          "name": "3.png"
+        },
+        {
+          "url": "/assets/a21fac7e-aa40-4534-868a-2d394769615d.png",
+          "type": "image",
+          "name": "4.png"
+        },
+        {
+          "url": "/assets/428dc3a1-b085-4d23-a912-670ab44d07d4.png",
+          "type": "image",
+          "name": "5.png"
+        },
+        {
+          "url": "/assets/99825fec-16e6-47b1-ba21-4ce982c89102.png",
+          "type": "image",
+          "name": "6.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "8d2cd811-2030-448c-887a-66986bd261c7",
+      "category": "电商详情页",
+      "title": "sprite雪碧",
+      "subtitle": "",
+      "year": "2026",
+      "description": "提出想法，AI协助完成",
+      "cover": "/assets/f0748cee-ea27-470e-8085-4dc8130c5f1f.png",
+      "media": [
+        {
+          "url": "/assets/366722a6-ea62-4d5f-a44d-7a47edb5efe0.png",
+          "type": "image",
+          "name": "1.png"
+        },
+        {
+          "url": "/assets/3794649c-1a80-404e-9c30-b86983dbf701.png",
+          "type": "image",
+          "name": "2.png"
+        },
+        {
+          "url": "/assets/c33d59d1-12e2-4683-83b9-a2959f603e01.jpg",
+          "type": "image",
+          "name": "3.jpg"
+        },
+        {
+          "url": "/assets/fee2d156-b71b-432d-bbed-ce3073dd315b.png",
+          "type": "image",
+          "name": "4.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "ff343ec6-0da2-45d9-b498-0e4c2cccf35d",
+      "category": "电商详情页",
+      "title": "NEOVA粉色轿跑",
+      "subtitle": "",
+      "year": "2026",
+      "description": "提出想法，AI协助完成",
+      "cover": "/assets/6a4654b8-e4d2-4025-82c6-c98b353d36ad.png",
+      "media": [
+        {
+          "url": "/assets/5cf61da2-b9c5-4680-bd2e-3a9d05753a00.png",
+          "type": "image",
+          "name": "1.png"
+        },
+        {
+          "url": "/assets/b2b04337-4eb3-47aa-b8c1-4143944ecee5.png",
+          "type": "image",
+          "name": "2.png"
+        },
+        {
+          "url": "/assets/ff1d47c1-9e8b-4d11-8a61-c14674ef7590.png",
+          "type": "image",
+          "name": "3.png"
+        },
+        {
+          "url": "/assets/4b80ccfb-9be4-4a44-9ee6-f4c49fe5ba15.png",
+          "type": "image",
+          "name": "4.png"
+        },
+        {
+          "url": "/assets/8aa058d4-181c-4442-97c8-35c7187b5294.png",
+          "type": "image",
+          "name": "5.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "5f9a0f49-dd19-464b-94c1-3ee9bb695ac7",
+      "category": "电商详情页",
+      "title": "OnePlus",
+      "subtitle": "",
+      "year": "2026",
+      "description": "提出想法，AI协助完成",
+      "cover": "/assets/cf002750-b789-432f-abac-b574124e3a74.png",
+      "media": [
+        {
+          "url": "/assets/abc6aeb6-8884-4149-933e-1dd0633c1007.png",
+          "type": "image",
+          "name": "1_.png"
+        },
+        {
+          "url": "/assets/067a9c9e-42f3-4ec1-a27d-24fbc079fdab.png",
+          "type": "image",
+          "name": "2.png"
+        },
+        {
+          "url": "/assets/2094295a-1402-410f-b954-f745421ba14b.png",
+          "type": "image",
+          "name": "3.png"
+        },
+        {
+          "url": "/assets/e272137d-4bb6-4895-b91e-e6b99801513c.png",
+          "type": "image",
+          "name": "4.png"
+        },
+        {
+          "url": "/assets/0dc5fcad-c631-4fb1-9cce-e0d40018035a.png",
+          "type": "image",
+          "name": "5.png"
+        },
+        {
+          "url": "/assets/8641786c-3ef2-43bc-a715-997b5f02903e.png",
+          "type": "image",
+          "name": "6.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "ed63469c-12a0-47b5-b0ad-7c4071ddfd83",
+      "category": "IP形象设计",
+      "title": "十二花仙系列",
+      "subtitle": "Twelve Flower Fairies Series",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/e60b8e93-9b82-4732-9276-388dc3c97ba5.png",
+      "media": [
+        {
+          "url": "/assets/ef047a0c-b1fa-482f-a5cc-4660a85cfffc.png",
+          "type": "image",
+          "name": "3牡丹_.png"
+        },
+        {
+          "url": "/assets/f35b0e32-c83f-4b15-bf62-3707c12d7b78.png",
+          "type": "image",
+          "name": "3牡丹_三视图.png"
+        },
+        {
+          "url": "/assets/4abbc792-b885-4448-9483-b848a7384588.png",
+          "type": "image",
+          "name": "3牡丹_表情包.png"
+        },
+        {
+          "url": "/assets/1c5aa779-c9a6-42e1-bb3c-0cd0f1b317e7.png",
+          "type": "image",
+          "name": "8清荷_.png"
+        },
+        {
+          "url": "/assets/d4599462-0071-4eef-811b-82dae09678f5.png",
+          "type": "image",
+          "name": "8清荷_三视图.png"
+        },
+        {
+          "url": "/assets/ac7a9468-378b-461b-843e-d29098128d50.png",
+          "type": "image",
+          "name": "8清荷_表情包.png"
+        },
+        {
+          "url": "/assets/dc638808-bf23-4cfb-9b74-f410a7689665.png",
+          "type": "image",
+          "name": "6金菊_.png"
+        },
+        {
+          "url": "/assets/0bc74fee-945a-468a-ad8c-fe6b8735b854.png",
+          "type": "image",
+          "name": "6金菊_三视图.png"
+        },
+        {
+          "url": "/assets/0cb86992-41ba-4a02-8691-8a0f3a7afef5.png",
+          "type": "image",
+          "name": "6金菊_表情包.png"
+        },
+        {
+          "url": "/assets/5b56ae5b-dc83-425d-a217-f353bb05c9fa.png",
+          "type": "image",
+          "name": "4梅花_.png"
+        },
+        {
+          "url": "/assets/19709a79-6d87-447f-a40a-2836b250f685.png",
+          "type": "image",
+          "name": "4梅花_三视图.png"
+        },
+        {
+          "url": "/assets/c0987ab0-3c38-43bf-b259-5a7386b0ce2c.png",
+          "type": "image",
+          "name": "4梅花_表情包.png"
+        },
+        {
+          "url": "/assets/be6dd217-af9e-45dc-a547-cabdb7661e9d.png",
+          "type": "image",
+          "name": "9白山茶_.png"
+        },
+        {
+          "url": "/assets/2ac9e170-3a2b-4650-81e5-05b5f8994d49.png",
+          "type": "image",
+          "name": "9白山茶_三视图.png"
+        },
+        {
+          "url": "/assets/d778289e-bb47-49e8-b19b-0f51610bc04f.png",
+          "type": "image",
+          "name": "9白山茶_表情包.png"
+        },
+        {
+          "url": "/assets/77d5f137-0311-434c-882c-646394aa835d.png",
+          "type": "image",
+          "name": "7桂花_.png"
+        },
+        {
+          "url": "/assets/b0a611db-612a-49ed-8580-2d2be22e5867.png",
+          "type": "image",
+          "name": "7桂花_三视图.png"
+        },
+        {
+          "url": "/assets/12264921-c9d3-435b-a2fb-e409cc536b58.png",
+          "type": "image",
+          "name": "7桂花_表情包.png"
+        },
+        {
+          "url": "/assets/a7103ac9-a766-4098-a626-de29c3a96e4f.png",
+          "type": "image",
+          "name": "5桃花_.png"
+        },
+        {
+          "url": "/assets/8856b2fa-436f-495f-bb02-3c36c4909481.png",
+          "type": "image",
+          "name": "5桃花_三视图.png"
+        },
+        {
+          "url": "/assets/8e6e0068-31dd-4950-bef5-9bb1e416955b.png",
+          "type": "image",
+          "name": "5桃花_表情包.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "32ac82a2-63ac-43b3-a782-8eb392881c18",
+      "category": "IP形象设计",
+      "title": "十二星座系列",
+      "subtitle": "Twelve Zodiac Series",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/65e6e02c-15bb-4912-8884-67b1a8e6012b.png",
+      "media": [
+        {
+          "url": "/assets/a58c033d-cdcd-4fc6-afa8-6365e659d662.png",
+          "type": "image",
+          "name": "1巨蟹座_.png"
+        },
+        {
+          "url": "/assets/7a0163b0-7f20-4abb-9a64-957448579125.png",
+          "type": "image",
+          "name": "1巨蟹座_三视图.png"
+        },
+        {
+          "url": "/assets/28ee81f9-2404-4bd1-ad1b-1b6c0f302770.png",
+          "type": "image",
+          "name": "1巨蟹座_表情包.png"
+        },
+        {
+          "url": "/assets/1137d937-bbd6-4261-8530-b56ae7de1b25.png",
+          "type": "image",
+          "name": "2双鱼座_.png"
+        },
+        {
+          "url": "/assets/ad1c30fc-7e3c-458c-b7d0-df43f9c983f3.png",
+          "type": "image",
+          "name": "2双鱼座_三视图.png"
+        },
+        {
+          "url": "/assets/504db6b4-ec64-4aeb-9139-75b539416ba3.png",
+          "type": "image",
+          "name": "2双鱼座_表情包.png"
+        },
+        {
+          "url": "/assets/a801163e-87b8-4ca8-83c7-514b8da8b4bb.png",
+          "type": "image",
+          "name": "3狮子座_.png"
+        },
+        {
+          "url": "/assets/166dbbee-e047-40d8-9b41-2ff6f3f5b84c.png",
+          "type": "image",
+          "name": "3狮子座_三视图.png"
+        },
+        {
+          "url": "/assets/cef91741-fed9-447a-93de-5912c9460521.png",
+          "type": "image",
+          "name": "3狮子座_表情包.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "21b33ee0-ee5e-4781-b862-20bd849754c7",
+      "category": "视觉海报",
+      "title": "修行",
+      "subtitle": "Practice of cultivation",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/99229a19-b3b7-4e4b-b8e5-f59787eaa935.png",
+      "media": [
+        {
+          "url": "/assets/a81a2188-b101-4a73-bc6d-ca3238bab9f5.png",
+          "type": "image",
+          "name": "ChatGPT_图像_2026年9月28日_00_54_33.png"
+        }
+      ],
+      "demo": false
+    },
+    {
+      "id": "rhythm",
+      "category": "视觉海报",
+      "title": "繁荣",
+      "subtitle": "Prosperous",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/d07a09c8-1185-472e-8494-69b798a292fb.png",
+      "media": [
+        {
+          "url": "/assets/82b439cf-1012-4b10-b442-bfc71f6199b8.png",
+          "type": "image",
+          "name": "ChatGPT_Image_2026年9月23日_19_19_13.png"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "d18c77d8-838e-41ec-bedc-d3c7d1f36346",
+      "category": "视觉海报",
+      "title": "希望",
+      "subtitle": "Hope",
+      "year": "2026",
+      "description": "",
+      "cover": "/assets/547ca15a-69c4-4982-b628-18e9df032f53.png",
+      "media": [
+        {
+          "url": "/assets/5fce8f59-ade9-462c-8c24-4e8a33d572b1.png",
+          "type": "image",
+          "name": "ChatGPT_Image_2026年9月23日_19_35_48.png"
+        }
+      ],
+      "demo": true
+    }
+  ],
+  "appearance": {
+    "theme": "white",
+    "saturation": 54
+  },
+  "categories": [
+    "短剧制作",
+    "产品TVC",
+    "电商详情页",
+    "IP形象设计",
+    "视觉海报"
+  ],
+  "copy": {
+    "aboutTitle": "设计是我与世界的对话。",
+    "strengthTitle": "好的创意，也需要好的实现。",
+    "footerTitle": "Make it mean something.",
+    "collapse": "返回开屏",
+    "footerCaption": "邮箱：2261671767@qq.com"
+  },
+  "font": {
+    "url": "",
+    "name": ""
+  },
+  "typography": {
+    "navigation": {},
+    "eyebrow": {},
+    "headline": {
+      "size": 48
+    },
+    "contentTitle": {},
+    "bodyText": {},
+    "support": {}
+  }
+}
